@@ -1,6 +1,8 @@
 # About me
 
-I am a health economist currently funded by a Wellcome Trust PhD scholarship in Public Health Economics and Decision Science at the University of Sheffield, UK. 
+I am a health economist currently funded by a Wellcome Trust PhD scholarship in Public Health Economics and Decision Science at the University of Sheffield, UK. My primary interest is in the methods used to estimate the costs and benefits of interventions which aim to increase population physical activity. 
+
+I work primarily in R, and am a proponent of open access research.
 
 ## Research:
 
