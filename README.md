@@ -1,12 +1,10 @@
 # About me
 
-I am a health economist currently funded by a Wellcome Trust PhD scholarship in Public Health Economics and Decision Science at the University of Sheffield, UK. My primary interest is in the methods used to estimate the costs and benefits of interventions which aim to increase population physical activity. 
-
-I work primarily in R, and am a proponent of open access research.
+I am a health economist currently funded by a Wellcome Trust PhD scholarship in Public Health Economics and Decision Science at the University of Sheffield. Sheffield is awesome!
 
 ## Research:
 
-My research is focused on the application of health economics to public health. I am working on the following projects:
+My research is focused on the application of health economics to public health. I am working on the following projects, primarily in R software environment.
 
 ### COVID-19
 
@@ -41,6 +39,8 @@ My research is focused on the application of health economics to public health. 
 - WHO Project on Hearing Loss screening (in progess) - https://github.com/RobertASmith/hearing_loss
 
 ## Teaching:
+
+I teach Advanced Simulation Methods (MSc Students) and Epidemiology (medical students) at the University of Sheffield. I have developed the following short courses in the use of R for health economics:
 
 - Introduction to R (finished) - https://github.com/RobertASmith/Intro_to_R
 
