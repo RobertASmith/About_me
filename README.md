@@ -8,7 +8,7 @@ My research is focused on the application of health economics to public health. 
 
 ### COVID-19
 
-- COVID-19 O2 usage in Bangladesh (in progress) - Capacity modelling using R-Simmer - https://github.com/RobertASmith/covid_bangladesh
+- COVID-19 O2 usage in Bangladesh (in progress) - Capacity modelling using R-Simmer [link](https://github.com/RobertASmith/covid_bangladesh)
 
 - COVID-19 Shiny App of R model (deployed) - https://github.com/RobertASmith/covid19_shiny
 
