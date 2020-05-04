@@ -1,7 +1,3 @@
-# About me
-
-I am a health economist currently funded by a Wellcome Trust PhD scholarship in Public Health Economics and Decision Science at the University of Sheffield. Sheffield is awesome!
-
 ## Research:
 
 My research is focused on the application of health economics to public health. I am working on the following projects, primarily in R software environment.
