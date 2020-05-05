@@ -70,12 +70,16 @@ I teach Advanced Simulation Methods (MSc Students) and Epidemiology (medical stu
 
 **Introduction to R** (finished) - [link](https://github.com/RobertASmith/Intro_to_R)
 
-Covering the basics of R with a particular focus on health data. This course ran in December 2019. It is due to be run again in May 2021.
+Work with Paul Schneider, Naomi Gibbs, Amy Chang, Sarah Bates & Thomas Bayley covering the basics of R with a particular focus on health data. This course ran in December 2019. It is due to be run again in May 2021.
 
 **Intermediate R** (in progress) - [link](https://github.com/RobertASmith/Intermediate_R)
 
+Work with Paul Schneider in progress.
+
 **Shiny for Health Economics** (submitted) - [link](https://github.com/RobertASmith/healthecon_shiny)
 
-Course in progress. The paper for this course is published [here](https://wellcomeopenresearch.org/articles/5-69). it outlines a simple method by which a user interface can be created for a health economic evaluation model constructed in R. Using this method it is possible to create a simple but professional looking user interface in hours at no additional expense.
+Course in progress (with Paul Schneider). The paper for this course is published [here](https://wellcomeopenresearch.org/articles/5-69). it outlines a simple method by which a user interface can be created for a health economic evaluation model constructed in R. Using this method it is possible to create a simple but professional looking user interface in hours at no additional expense.
 
 **Git for Health Economics** (in progress) - [link](https://github.com/RobertASmith/teachGit)
+
+Course at early stages.
