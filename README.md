@@ -6,9 +6,9 @@ NOTE: Links won't work where the repo is private (only where data is sensitive).
 
 ### COVID-19
 
-- COVID-19 O2 usage in Bangladesh (in progress) - Capacity modelling using R-Simmer [link](https://github.com/RobertASmith/covid_bangladesh)
+**Optimal O2 and Ventilator Capacity for hospital in Bangladesh** (in progress) - Capacity modelling using R-Simmer [link](https://github.com/RobertASmith/covid_bangladesh)
 
-- COVID-19 Shiny App of R model (deployed) - [link](https://github.com/RobertASmith/covid19_shiny)
+**COVID-19 Shiny App of R model** (deployed) - [link](https://github.com/RobertASmith/covid19_shiny)
 
 ### WHO-EUROPE HEAT
 
@@ -34,17 +34,17 @@ Work with Rami Cosulich & Paul Schneider investigating whether there are trends 
 
 Work with Paul Schneider identifying the optimal green-spaces in which to start new parkruns. Being used by parkrun to short-list locations for new events.
 
-- Time-series analysis of participation (in progress) - [link](https://github.com/RobertASmith/parkruntimeseries)
+**Time-series analysis of participation** (in progress) - [link](https://github.com/RobertASmith/parkruntimeseries)
 
-- History of parkrun (online) - [link](https://github.com/RobertASmith/history_of_parkrun)
+**History of parkrun (online)** - [link](https://github.com/RobertASmith/history_of_parkrun)
 
 ### PACEM MODEL
 
-- Physical Activity in Children Economic Model (in progress) - [link](https://github.com/RobertASmith/pacemodel)
+**Physical Activity in Children Economic Model** (in progress) - [link](https://github.com/RobertASmith/pacemodel)
 
 ### WHO - HEARING LOSS
 
-- WHO Project on Hearing Loss screening (in progess) - [link](https://github.com/RobertASmith/hearing_loss)
+**WHO Project on Hearing Loss screening** (in progess) - [link](https://github.com/RobertASmith/hearing_loss)
 
 ### SHINY APPS
 
@@ -58,12 +58,14 @@ Converting a heemod model in R into an R-Shiny application which is now being us
 
 I teach Advanced Simulation Methods (MSc Students) and Epidemiology (medical students) at the University of Sheffield. I have developed the following short courses in the use of R for health economics:
 
-- Introduction to R (finished) - [link](https://github.com/RobertASmith/Intro_to_R)
+**Introduction to R** (finished) - [link](https://github.com/RobertASmith/Intro_to_R)
 
-- Introductory R (in progress) - [link](https://github.com/RobertASmith/Intermediate_R)
+This course ran in December 2019. It is due to be run again in May 2021.
+
+**Intermediate R** (in progress) - [link](https://github.com/RobertASmith/Intermediate_R)
 
 **Shiny for Health Economics** (submitted) - [link](https://github.com/RobertASmith/healthecon_shiny)
 
+The paper for this course is open published [here](https://wellcomeopenresearch.org/articles/5-69).
 
-
-- Git (in progress) - [link](https://github.com/RobertASmith/teachGit)
+**Git for Health Economics** (in progress) - [link](https://github.com/RobertASmith/teachGit)
