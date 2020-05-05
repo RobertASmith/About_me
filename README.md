@@ -12,7 +12,9 @@ NOTE: Links won't work where the repo is private (only where data is sensitive).
 
 ### WHO-EUROPE HEAT
 
-- Applying a value of a statistical life (submitted) - [link](https://github.com/RobertASmith/heat_vsly_public)
+- Applying a value of a statistical life - [link](https://github.com/RobertASmith/heat_vsly_public)
+
+Repository for a journal article submitted to Journal of Transport & Health. The work compares the estimates derived by valuing life years gained by reducing mortality risk to the current approach which values deaths averted. 
 
 - Applying a dose response function (final review) - [link](https://github.com/RobertASmith/HEAT_DRF)
 
