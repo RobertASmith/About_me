@@ -10,7 +10,7 @@ NOTE: Links won't work where the repo is private (only where data is sensitive).
 
 This is a capacity model created in R using R-Simmer. The aim is to estimate the amount of O2 and Ventilators needed to treat the population given sporadic arrival times and uncertainty in duration of stay.
 
-<img src="https://github.com/RobertASmith/covid_bangladesh/blob/master/outputs/resource_use.png" width="100" height="100">
+<img src="https://github.com/RobertASmith/covid_bangladesh/blob/master/outputs/resource_use.png" width="300" height="200">
 
 **COVID-19 Shiny App of R model** (deployed) - [link](https://github.com/RobertASmith/covid19_shiny)
 
@@ -32,13 +32,17 @@ Repository for a journal article under final review which compares the estimates
 
 Work with Paul Schneider. This work is published [here](https://wellcomeopenresearch.org/articles/5-9). It is the first study to look at the determinants of participation in parkrun. It finds large differences in participation rates between deprived and affluent areas.
 
+<img src="https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/output/colour_plot.png" width="300" height="200">
+
 **Trends in Parkrun Engagement** (In progress) - [link](https://github.com/ScHARR-PHEDS/attachment3_parkrun)
 
 Work with Rami Cosulich & Paul Schneider investigating whether there are trends in the determinants of participation (see above) in parkrun.
 
 **Identifying Optimal Locations** (resubmission) - [link](https://github.com/ScHARR-PHEDS/iolmap_revision)
 
-Work with Paul Schneider identifying the optimal green-spaces in which to start new parkruns. Being used by parkrun to short-list locations for new events. This paper is published as a pre-print [here](https://www.medrxiv.org/content/10.1101/19004143v1.full.pdf).
+Work with Paul Schneider identifying the optimal green-spaces in which to start new parkruns. Being used by parkrun to short-list locations for new events. This paper is published as a pre-print [here](https://www.medrxiv.org/content/10.1101/19004143v1.full.pdf), with an accompanying online map (created by Paul) hosted at the University of Sheffield [here](http://iol-map.shef.ac.uk/).
+
+<img src="https://github.com/bitowaqr/iolmap_analysis/blob/master/output/runs_map_static.jpeg" width="300" height="200">
 
 **Time-series analysis of participation** (in progress) - [link](https://github.com/RobertASmith/parkruntimeseries)
 
