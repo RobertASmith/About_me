@@ -42,7 +42,7 @@ Work with Rami Cosulich & Paul Schneider investigating whether there are trends 
 
 Work with Paul Schneider identifying the optimal green-spaces in which to start new parkruns. Being used by parkrun to short-list locations for new events. This paper is published as a pre-print [here](https://www.medrxiv.org/content/10.1101/19004143v1.full.pdf), with an accompanying online map (created by Paul) hosted at the University of Sheffield [here](http://iol-map.shef.ac.uk/).
 
-<img src="https://github.com/bitowaqr/iolmap_analysis/blob/master/output/runs_map_static.jpeg" width="300" height="200">
+<img src="https://github.com/bitowaqr/iolmap_analysis/blob/master/output/runs_map_static.jpeg" width="200" height="300">
 
 **Time-series analysis of participation** (in progress) - [link](https://github.com/RobertASmith/parkruntimeseries)
 
@@ -85,6 +85,8 @@ Work with Paul Schneider in progress.
 **Shiny for Health Economics** (submitted) - [link](https://github.com/RobertASmith/healthecon_shiny)
 
 Course in progress (with Paul Schneider). The paper for this course is published [here](https://wellcomeopenresearch.org/articles/5-69). it outlines a simple method by which a user interface can be created for a health economic evaluation model constructed in R. Using this method it is possible to create a simple but professional looking user interface in hours at no additional expense.
+
+<img src="https://github.com/RobertASmith/healthecon_shiny/blob/master/Tutorial/shiny_function_app.png" width="300" height="200">
 
 **Git for Health Economics** (in progress) - [link](https://github.com/RobertASmith/teachGit)
 
