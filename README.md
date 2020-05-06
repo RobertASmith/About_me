@@ -10,6 +10,8 @@ NOTE: Links won't work where the repo is private (only where data is sensitive).
 
 This is a capacity model created in R using R-Simmer. The aim is to estimate the amount of O2 and Ventilators needed to treat the population given sporadic arrival times and uncertainty in duration of stay.
 
+![PLOT 1](https://github.com/RobertASmith/covid_bangladesh/blob/master/outputs/resource_use.png)
+
 **COVID-19 Shiny App of R model** (deployed) - [link](https://github.com/RobertASmith/covid19_shiny)
 
 This is a Shiny application which I created for a model created by David Sparkes. The application allows users to change assumptions, and reveals the sensitivity of the results to small changes in assumptions (a common problem in infectious disease models). 
