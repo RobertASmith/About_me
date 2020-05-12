@@ -1,6 +1,6 @@
 # About me
 
-See [LinkdIn](https://www.linkedin.com/in/robert-smith-53b28438/) or [CV](https://github.com/RobertASmith/about_me/blob/master/CV_Rob_Smith_OverLeaf.pdf) for more information.
+See my [LinkedIn](https://www.linkedin.com/in/robert-smith-53b28438/) account or [CV](https://github.com/RobertASmith/about_me/blob/master/CV_Rob_Smith_OverLeaf.pdf) for more information on previous experience.
 
 ## Research:
 
