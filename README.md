@@ -1,8 +1,10 @@
+# About me
+
+See [LinkdIn](https://www.linkedin.com/in/robert-smith-53b28438/) or [CV](https://github.com/RobertASmith/about_me/blob/master/CV_Rob_Smith_OverLeaf.pdf) for more information.
+
 ## Research:
 
 My research is focused on the application of health economics to public health. I am working on the following projects, primarily in R software environment.
-
-NOTE: Links won't work where the repo is private (only where data is sensitive).
 
 ### COVID-19
 
