@@ -1,6 +1,6 @@
 # About me
 
-See my [LinkedIn](https://www.linkedin.com/in/robert-smith-53b28438/) account or [CV](https://github.com/RobertASmith/about_me/blob/master/CV_Rob_Smith_OverLeaf.pdf) for more information on previous experience.
+See my [LinkedIn](https://www.linkedin.com/in/robert-smith-53b28438/) account or [website](https://www.darkpeakanalytics.com/) for more information on previous experience.
 
 ## Research:
 
@@ -86,7 +86,7 @@ Work with Paul Schneider in progress.
 
 **Shiny for Health Economics** (submitted) - [link](https://github.com/RobertASmith/healthecon_shiny)
 
-Course in progress (with Paul Schneider). The paper for this course is published [here](https://wellcomeopenresearch.org/articles/5-69). it outlines a simple method by which a user interface can be created for a health economic evaluation model constructed in R. Using this method it is possible to create a simple but professional looking user interface in hours at no additional expense.
+With Paul Schneider. The paper for this course is published [here](https://wellcomeopenresearch.org/articles/5-69). it outlines a simple method by which a user interface can be created for a health economic evaluation model constructed in R. Using this method it is possible to create a simple but professional looking user interface in hours at no additional expense.
 
 <img src="https://github.com/RobertASmith/healthecon_shiny/blob/master/Tutorial/shiny_function_app.png" width="300" height="200">
 
