@@ -1,9 +1,6 @@
 # About me
 
-![plot_1](https://github.com/RobertASmith/About_me/blob/master/rob.png?raw=true)
-
-
-Rob is a health economist based in Sheffield, UK.  His research focuses on the methods used to estimate the costs and benefits of public health interventions, with a specific interest in microsimulation modelling in R. He has been involved in multiple projects with the World Health Organization and parkrunUK. He is particularly interested in the use of web-based user-interfaces to improve decision model transparency.
+![plot_1](https://github.com/RobertASmith/About_me/blob/master/rob.png?raw=true) | Rob is a health economist based in Sheffield, UK.  His research focuses on the methods used to estimate the costs and benefits of public health interventions, with a specific interest in microsimulation modelling in R. He has been involved in multiple projects with the World Health Organization and parkrunUK. He is particularly interested in the use of web-based user-interfaces to improve decision model transparency.
 
 ## Courses
 
