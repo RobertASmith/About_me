@@ -4,7 +4,7 @@ Rob is a health economist based in Sheffield, UK.  His research focuses on the m
 
 ## Courses
 
-- Intro to R
+- Introduction to R
 - Intermediate R
 - R Shiny for Health Economics
 - GitHub for health researchers
