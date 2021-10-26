@@ -35,4 +35,6 @@ LinkedIn: [https://www.linkedin.com/in/robert-smith-53b28438/](https://www.linke
 
 Website: [https://www.darkpeakanalytics.com/](https://www.darkpeakanalytics.com/)
 
+Note: Rob is currently based at the UK Health Security Agency
+
 
