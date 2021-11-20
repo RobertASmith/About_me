@@ -24,7 +24,7 @@ Core Group Member -  World Health Organisation HEAT walking & cycling
 
 ## For a list of publications see CV
 
-[https://github.com/RobertASmith/About_me/blob/master/CV_Rob_Smith.pdf](https://github.com/RobertASmith/About_me/blob/master/CV_Rob_Smith.pdf) 
+[https://github.com/RobertASmith/About_me/blob/master/CV_Rob_Smith.pdf](https://github.com/RobertASmith/About_me/blob/master/Rob_CV.pdf) 
 
 
 ## Contact
