@@ -19,10 +19,12 @@ Scientific Committee - R-HTA
 
 [Dark Peak Analytics](https://www.darkpeakanalytics.com/) is a partnership between Rob and Dr. Paul Schneider, based near Sheffield and the Peak District national park, England. The company's primary area of expertise is the application of data-science to health economics, public health and decision science,  in particular the creation of bespoke web-based user-interfaces for economic models of health technologies & public health interventions. 
 
-## For a list of publications see CV
+## Publications
 
-[https://github.com/RobertASmith/About_me/blob/master/CV_Rob_Smith.pdf](https://github.com/RobertASmith/About_me/blob/master/Rob_CV.pdf) 
+For a list of publications see [Rob's Google Scholar page](https://scholar.google.com/citations?hl=en&user=Wpj2R6MAAAAJ)
 
+## CV
+Rob's CV can be found [here](https://drive.google.com/file/d/1AYbcX4-XC7ccXRhgaZG04eOqZgg9BEty/view?usp=sharing)
 
 ## Contact
 
