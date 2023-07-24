@@ -1,4 +1,4 @@
-# About me
+# About me <img src="https://github.com/RobertASmith/About_me/blob/master/rob.png" align="right" width="120" />
 
 Dr. Robert Smith is a health economist based in Sheffield, UK.  His research focuses on the application of methods from data-science to health economics, with a particular interest in simulation methods. Rob has worked with a large number of organisations including NGOs, Governments, Universities, Companies and Charities. Some notable names include: the World Health Organization, Joint Biosecurity Centre, UK Health Security Agency, GlaxoSmithKline, Sanofi, Daiichi Sankyo, parkrunUK, and the University of Sheffield. He is particularly interested in the use of web-based user-interfaces to improve decision model transparency.
 
