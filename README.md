@@ -1,14 +1,11 @@
 # About me
 
-Rob is a health economist based in Sheffield, UK.  His research focuses on the methods used to estimate the costs and benefits of public health interventions, with a specific interest in microsimulation modelling in R. He has been involved in multiple projects with the World Health Organization and parkrunUK. He is particularly interested in the use of web-based user-interfaces to improve decision model transparency.
+Rob is a health economist based in Sheffield, UK.  His research focuses on the application of methods from data-science to health economics, with a particular interest in simulation methods. Rob has worked with a large number of organisations including NGOs, Governments, Universities, Companies and Charities. Some notable names include: the World Health Organization, Joint Biosecurity Centre, UK Health Security Agency, GlaxoSmithKline, Sanofi, Daiichi Sankyo, parkrunUK, and the University of Sheffield. He is particularly interested in the use of web-based user-interfaces to improve decision model transparency.
 
-## Courses
+## Taught Courses
+A full list of courses taught by Rob & the team at Dark Peak Analytics can be found here: 
 
-- Introduction to R
-- Intermediate R
-- R Shiny for Health Economics
-- GitHub for health researchers
-- Open Research in R, GitHub & Zenodo
+https://docs.google.com/document/d/1FpVfykhLOnvZgj1FfYcbfbpAsvqb_52us6xmTlTLoWc/edit?usp=sharing
 
 ## Talks & Media
 
@@ -17,6 +14,7 @@ For a list of talks and media see [https://www.darkpeakanalytics.com/](https://w
 ## Advisory
 
 Core Group Member -  World Health Organisation HEAT walking & cycling
+Scientific Committee - R-HTA
 
 ## Consultancy
 
@@ -29,12 +27,11 @@ Core Group Member -  World Health Organisation HEAT walking & cycling
 
 ## Contact
 
-E: rasmith3@sheffield.ac.uk
+E: robert.smith@sheffield.ac.uk ; rsmith@darkpeakanalytics.com
 
 LinkedIn: [https://www.linkedin.com/in/robert-smith-53b28438/](https://www.linkedin.com/in/robert-smith-53b28438/) 
 
 Website: [https://www.darkpeakanalytics.com/](https://www.darkpeakanalytics.com/)
 
-Note: Rob is currently based at the UK Health Security Agency
 
 
