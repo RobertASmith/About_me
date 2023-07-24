@@ -7,7 +7,7 @@ A full list of courses taught by Rob & the team at Dark Peak Analytics can be fo
 
 ## Talks & Media
 
-For a list of talks and media see [https://www.darkpeakanalytics.com/](https://www.darkpeakanalytics.com/)
+For a list of talks and media see Rob's [talks repository](https://github.com/RobertASmith/talks).
 
 ## Advisory
 
@@ -17,7 +17,7 @@ Scientific Committee - R-HTA
 
 ## Consultancy
 
-[https://www.darkpeakanalytics.com/](https://www.darkpeakanalytics.com/) is a partnership between Robert Smith and Paul Schneider, based near Sheffield and the Peak District national park, England. The company's primary area of expertise is the application of data-science to health economics, public health and decision science,  in particular the creation of bespoke web-based user-interfaces for economic models of health technologies & public health interventions. 
+[Dark Peak Analytics](https://www.darkpeakanalytics.com/) is a partnership between Rob and Dr. Paul Schneider, based near Sheffield and the Peak District national park, England. The company's primary area of expertise is the application of data-science to health economics, public health and decision science,  in particular the creation of bespoke web-based user-interfaces for economic models of health technologies & public health interventions. 
 
 ## For a list of publications see CV
 
@@ -26,7 +26,7 @@ Scientific Committee - R-HTA
 
 ## Contact
 
-E: robert.smith@sheffield.ac.uk ; rsmith@darkpeakanalytics.com
+E: robert.smith@sheffield.ac.uk; rsmith@darkpeakanalytics.com
 
 LinkedIn: [https://www.linkedin.com/in/robert-smith-53b28438/](https://www.linkedin.com/in/robert-smith-53b28438/) 
 
