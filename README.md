@@ -1,11 +1,9 @@
 # About me
 
-Rob is a health economist based in Sheffield, UK.  His research focuses on the application of methods from data-science to health economics, with a particular interest in simulation methods. Rob has worked with a large number of organisations including NGOs, Governments, Universities, Companies and Charities. Some notable names include: the World Health Organization, Joint Biosecurity Centre, UK Health Security Agency, GlaxoSmithKline, Sanofi, Daiichi Sankyo, parkrunUK, and the University of Sheffield. He is particularly interested in the use of web-based user-interfaces to improve decision model transparency.
+Dr. Robert Smith is a health economist based in Sheffield, UK.  His research focuses on the application of methods from data-science to health economics, with a particular interest in simulation methods. Rob has worked with a large number of organisations including NGOs, Governments, Universities, Companies and Charities. Some notable names include: the World Health Organization, Joint Biosecurity Centre, UK Health Security Agency, GlaxoSmithKline, Sanofi, Daiichi Sankyo, parkrunUK, and the University of Sheffield. He is particularly interested in the use of web-based user-interfaces to improve decision model transparency.
 
 ## Taught Courses
-A full list of courses taught by Rob & the team at Dark Peak Analytics can be found here: 
-
-https://docs.google.com/document/d/1FpVfykhLOnvZgj1FfYcbfbpAsvqb_52us6xmTlTLoWc/edit?usp=sharing
+A full list of courses taught by Rob & the team at Dark Peak Analytics can be found [here](https://docs.google.com/document/d/1FpVfykhLOnvZgj1FfYcbfbpAsvqb_52us6xmTlTLoWc/edit?usp=sharing)
 
 ## Talks & Media
 
@@ -14,6 +12,7 @@ For a list of talks and media see [https://www.darkpeakanalytics.com/](https://w
 ## Advisory
 
 Core Group Member -  World Health Organisation HEAT walking & cycling
+
 Scientific Committee - R-HTA
 
 ## Consultancy
